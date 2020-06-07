@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+h2{
+    color: seagreen;
+}
+.something{
+    background-color: slateblue; height: 50; width: 70;
+}
+.parent{
+    background: tomato;
+    height: 600px; 
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.child{
+    background-color: violet;
+    height: 80px;
+    margin-left: 80px;
+    margin: 50px 30px 80px 80px;
+    bo 
+}
